@@ -1,5 +1,5 @@
 # Detection-tracking Algorithm
-This takes a yolo detection output and tracks it by using centroid tracking and pHash algortihm
+This takes a yolo detection (https://github.com/ultralytics/yolov5) output and tracks it by using centroid tracking and pHash algortihm (http://www.hackerfactor.com/blog/index.php?/archives/432-Looks-Like-It.html)
 
 ## Requirements:
 
